@@ -17,8 +17,6 @@ Currently working on **data analytics projects** to strengthen skills in:
 ---
 
 ## 📂 Featured Projects
-🔗 (Upload repos for each project)
-
 - **📊 Wine Pricing & Sales Analysis (Capstone)**  
   Tools: Python, Power BI, Excel  
   - Built dashboards analyzing sales & pricing across Canadian provinces.  
