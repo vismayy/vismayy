@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Vismay Shah
+Vismay Shah
 
-🎯 **Data Analyst | Business Analyst | Storytelling with Data**  
-📍 Ontario, Canada | 📧 vismay0210@gmail.com  
+**Data Analyst | Business Analyst | Storytelling with Data**  
+Location: Ontario, Canada | Email: vismay0210@gmail.com  
 
 ---
 
-## 🚀 About Me
+## About Me
 Data Analyst with 5+ years of experience in **energy operations & customer service analytics**, now specializing in **SQL, Python, and Power BI** to turn raw data into actionable insights.  
 I focus on **cost optimization, process efficiency, and executive reporting**.  
 
@@ -16,24 +16,24 @@ Currently working on **data analytics projects** to strengthen skills in:
 
 ---
 
-## 📂 Featured Projects
-- **📊 Wine Pricing & Sales Analysis (Capstone)**  
+## Featured Projects
+- ** Wine Pricing & Sales Analysis (Capstone)**  
   Tools: Python, Power BI, Excel  
   - Built dashboards analyzing sales & pricing across Canadian provinces.  
   - Delivered recommendations for optimized ROI and market positioning.  
 
-- **📈 Energy Operations Analytics**  
+- ** Energy Operations Analytics**  
   Tools: Excel VBA, SQL  
   - Automated dashboards for gas loss & demand forecasting.  
   - Reduced reporting workload by 80% and annual gas loss by 21%.  
 
-- **⚡ EV Production Optimization (Tata Motors)**  
+- ** EV Production Optimization (Tata Motors)**  
   Tools: Excel, Lean Methods  
   - Identified bottlenecks, improving production throughput by 23.8%.  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Languages**: Python, SQL (MSSQL, MySQL), DAX, VBA  
 - **Visualization**: Power BI, Tableau, Excel  
 - **Data Handling**: Pandas, NumPy, ETL  
